@@ -21,7 +21,7 @@
       "link":"https://blog.francium.tech/get-started-with-machine-learning-in-visual-studio-code-and-jupyter-158d17cdc55e?source=rss-8df2e9eedd42------2",
       "thumbnail":"https://cdn-images-1.medium.com/max/1024/1*q44ZZUV7w0_F0erjcCAJSQ.jpeg",
       "discription":"Get started with Machine Learning using Jupyter notebook in Visual Studio Code. Also Execute python file like notebook file using VS Code.",
-      "tag":"machine-learning"
+      "tag":"ml-tools"
    },
    {
       "title":"Get Started with Machine Learning — Handy Python Tools",
@@ -29,7 +29,7 @@
       "link":"https://blog.francium.tech/get-started-with-machine-learning-handy-python-tools-a1ce97085837?source=rss-8df2e9eedd42------2",
       "thumbnail":"https://cdn-images-1.medium.com/max/1024/1*DNRGaFHQ6MXMUviSvgr_PQ.jpeg",
       "discription":"Setting up tools like Anaconda, Python, Conda, Jupyter Notebook to get started with Machine Learning in Python. Intro on basic python libraries for analysing, visualizing, training and predicting data",
-      "tag":"artificial-intelligence"
+      "tag":"ml-tools"
    },
    {
       "title":"Using Machine Learning for Color Calibration with a color-checker",
@@ -37,7 +37,7 @@
       "link":"https://blog.francium.tech/using-machine-learning-for-color-calibration-with-a-color-checker-d9f0895eafdb?source=rss-8df2e9eedd42------2",
       "thumbnail":"https://cdn-images-1.medium.com/max/1024/1*AoEteXXsuW_LT2w5GxoukQ.jpeg",
       "discription":"Color calibration with color checker using machine learning techniques.Implementing using  Partial Least Squares, Root Polynomial Regression and 3D Thin plate spline technique in python.",
-      "tag":"python"
+      "tag":"machine-learning"
    },
    {
       "title":"Deploying Machine Learning Model to AWS Lambda with Serverless",
@@ -45,7 +45,7 @@
       "link":"https://blog.francium.tech/deploying-machine-learning-model-to-aws-lambda-with-serverless-a121a8253901?source=rss-8df2e9eedd42------2",
       "thumbnail":"https://cdn-images-1.medium.com/max/1024/1*8K7wEuGZdjXAIdvmp-BRlQ.jpeg",
       "discription":"Deploying machine learning model to aws lambda using serverless framework and its plugin.",
-      "tag":"serverless"
+      "tag":"ml-ops"
    },
    {
       "title":"Deploy Knative Service directly from source code using Kaniko / Ko",
@@ -61,7 +61,7 @@
       "link":"https://blog.francium.tech/get-started-with-machine-learning-part-1-e24e980fa8a8?source=rss-8df2e9eedd42------2",
       "thumbnail":"https://cdn-images-1.medium.com/max/1024/1*qWpuMFQc9rIZHd1skpDbxw.jpeg",
       "discription":"Brief intro about Artificial Intelligence (AI), Data Science and Machine Learning. Simple explanation about Linear Regression and its evaluation metrics. Predicting the weight from height",
-      "tag":"ai"
+      "tag":"artifical-intelligence"
    },
    {
       "title":"Prediction from Conditionally Dependent Data in Machine Learning",
@@ -69,7 +69,7 @@
       "link":"https://blog.francium.tech/building-prediction-model-from-conditionally-dependent-data-5bb0504864ea?source=rss-8df2e9eedd42------2",
       "thumbnail":"https://cdn-images-1.medium.com/max/1024/1*CWS1cEY1Lkz0pXErZIbWSA.png",
       "discription":"Building a prediction system using Machine Learning from data which have conditional dependence and highly correlated features. Predicted using logistic regression by forming dependency event matrix.",
-      "tag":"predictions"
+      "tag":"ml-prediction"
    },
    {
       "title":"Lambda Dependency Management using Serverless Plugin",
@@ -77,7 +77,7 @@
       "link":"https://blog.francium.tech/deploying-python-packages-to-lambda-layers-using-serverless-plugin-c8fe1371e0b?source=rss-8df2e9eedd42------2",
       "thumbnail":"https://cdn-images-1.medium.com/max/1024/1*Dai8QgdAwrznSgvI5UDveg.jpeg",
       "discription":"Deploying python packages to aws lambda layers using serverless requirement plugin",
-      "tag":"predictions"
+      "tag":"aws-lambda"
    },
    {
       "title":"Build Your Own Serverless Platform on Kubernetes with Knative",
@@ -85,7 +85,7 @@
       "link":"https://blog.francium.tech/build-your-own-serverless-platform-on-kubernetes-with-knative-87c82eb1b14d?source=rss-8df2e9eedd42------2",
       "thumbnail":"https://cdn-images-1.medium.com/max/1024/1*DS_pdUWca68nvudjNt6-cA.jpeg",
       "discription":"Setup Knative on Google Kubernetes Engine to implement our own serverless environment using containers. Example for creating container for running a go function and deploy it as Knative service",
-      "tag":"predictions"
+      "tag":"kubernetes"
    },
    {
       "title":"Go Modules : Project set up without GOPATH",
@@ -93,7 +93,7 @@
       "link":"https://blog.francium.tech/real-time-object-detection-on-mobile-with-flutter-tensorflow-lite-and-yolo-android-part-a0042c9b62c6?source=rss-8df2e9eedd42------2",
       "thumbnail":"https://cdn-images-1.medium.com/max/1024/1*6ZEE8aeQhCWijBfPrA4nXA.png",
       "discription":"Through this article, we will see how the project setup and its release goes in Go 1.12 version. Explored  dependency management, package versioning and custom package resolving in Go using Go Modules",
-      "tag":"predictions"
+      "tag":"go-lang"
    },
    {
       "title":"Real-Time Object Detection with Flutter, TensorFlow Lite and Yolo -Part 1",
@@ -101,7 +101,7 @@
       "link":"https://blog.francium.tech/building-prediction-model-from-conditionally-dependent-data-5bb0504864ea?source=rss-8df2e9eedd42------2",
       "thumbnail":"https://cdn-images-1.medium.com/max/1024/1*JDvyVdoeVbh5Jg87-rksaw.png",
       "discription":"Implementing real time object detection with on device machine learning using Flutter, Tensorflow Liter and Yolo modal for an Android device",
-      "tag":"predictions"
+      "tag":"ml-mobile"
    },
    {
       "title":"Serverless on Kubernetes using Fission",
@@ -109,7 +109,7 @@
       "link":"https://blog.francium.tech/serverless-on-kubernetes-using-fission-80970c9833ee?source=rss-8df2e9eedd42------2",
       "thumbnail":"https://cdn-images-1.medium.com/max/1024/1*D0Mr-oh2b7Vy0kM8-GIOSw.png",
       "discription":"Setup Fission on Google Kubernetes Engine to enable Serverless user case like Lambda like function and Api router. Example for creating python function and rest api with json response using fission",
-      "tag":"predictions"
+      "tag":"kubernetes"
    },
    {
       "title":"Deploying Ruby Script to AWS Lambda Function and Layers",
@@ -117,6 +117,6 @@
       "link":"https://blog.francium.tech/deploying-ruby-to-aws-lambda-function-and-layers-a6c00b53a5d0?source=rss-8df2e9eedd42------2",
       "thumbnail":"https://cdn-images-1.medium.com/max/1024/1*8_wwfR4bDOtI5itKwRnvlg.png",
       "discription":"Deploying Ruby function with gem dependencies to AWS Lambda Function and Layer using AWS CLI",
-      "tag":"predictions"
+      "tag":"aws-lambda"
    }
 ]
